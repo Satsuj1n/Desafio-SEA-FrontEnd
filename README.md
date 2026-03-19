@@ -18,6 +18,7 @@ Frontend React para a API Client Manager.
 ## Setup
 
 ```bash
+git clone https://github.com/Satsuj1n/Desafio-SEA-FrontEnd.git
 npm install
 npm run dev
 ```
